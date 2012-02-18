@@ -1,0 +1,4 @@
+This is an example temperature converter in Clojure. The code is from the
+tutorial at http://stuartsierra.com/2010/01/06/heating-up-clojure-swing and the
+original demo is derived from the Swing temperature converter tutorial at
+http://docs.oracle.com/javase/tutorial/uiswing/learn/ 
